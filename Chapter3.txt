@@ -1,1 +1,3 @@
-This is Chapter 3 File
+This is Chapter 3 File.
+
+The War of The Worlds has began.
